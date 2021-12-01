@@ -1,0 +1,14 @@
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 9\C Sharp 9.3\C Sharp 9.3\bin\Debug\netcoreapp3.1\C Sharp 9.3.exe
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 9\C Sharp 9.3\C Sharp 9.3\bin\Debug\netcoreapp3.1\C Sharp 9.3.deps.json
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 9\C Sharp 9.3\C Sharp 9.3\bin\Debug\netcoreapp3.1\C Sharp 9.3.runtimeconfig.json
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 9\C Sharp 9.3\C Sharp 9.3\bin\Debug\netcoreapp3.1\C Sharp 9.3.runtimeconfig.dev.json
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 9\C Sharp 9.3\C Sharp 9.3\bin\Debug\netcoreapp3.1\C Sharp 9.3.dll
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 9\C Sharp 9.3\C Sharp 9.3\bin\Debug\netcoreapp3.1\C Sharp 9.3.pdb
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 9\C Sharp 9.3\C Sharp 9.3\obj\Debug\netcoreapp3.1\C Sharp 9.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 9\C Sharp 9.3\C Sharp 9.3\obj\Debug\netcoreapp3.1\C Sharp 9.3.AssemblyInfoInputs.cache
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 9\C Sharp 9.3\C Sharp 9.3\obj\Debug\netcoreapp3.1\C Sharp 9.3.AssemblyInfo.cs
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 9\C Sharp 9.3\C Sharp 9.3\obj\Debug\netcoreapp3.1\C Sharp 9.3.csproj.CoreCompileInputs.cache
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 9\C Sharp 9.3\C Sharp 9.3\obj\Debug\netcoreapp3.1\C Sharp 9.3.dll
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 9\C Sharp 9.3\C Sharp 9.3\obj\Debug\netcoreapp3.1\C Sharp 9.3.pdb
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 9\C Sharp 9.3\C Sharp 9.3\obj\Debug\netcoreapp3.1\C Sharp 9.3.genruntimeconfig.cache
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 9\C Sharp 9.3\C Sharp 9.3\obj\Debug\netcoreapp3.1\C Sharp 9.3.csproj.AssemblyReference.cache
